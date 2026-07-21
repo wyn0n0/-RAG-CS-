@@ -1,0 +1,86 @@
+[
+  {
+    "lineup_id": "mirage_ramp_ct_smoke_v1",
+    "strategy_id": "mirage_t_a_ramp_palace_fast_triple_smoke_v1",
+    "map": "mirage",
+    "side": "T",
+    "site": "A",
+    "utility": "smoke",
+    "target": "ct",
+    "label": "Mirage A 坪 CT（警家）烟",
+    "throw_type": "jump_throw",
+    "verification_status": "verified",
+    "verified_at": "2026-07-21",
+    "notes": "已验证：按站位图在匪家 A1 / A 坪起点站定，再按瞄点图对准脚手架与屋檐区域跳投。",
+    "images": [
+      {
+        "role": "position",
+        "step": 1,
+        "caption": "① 站位：在匪家 A1 / A 坪一侧按图中墙角站定。",
+        "path": "mirage/ramp_palace_fast/ct_smoke_position.png"
+      },
+      {
+        "role": "aim",
+        "step": 2,
+        "caption": "② 瞄点：按图中脚手架与屋檐参照物对准后跳投，目标封锁 CT（警家）方向。",
+        "path": "mirage/ramp_palace_fast/ct_smoke_aim.png"
+      }
+    ]
+  },
+  {
+    "lineup_id": "mirage_ramp_jungle_smoke_v1",
+    "strategy_id": "mirage_t_a_ramp_palace_fast_triple_smoke_v1",
+    "map": "mirage",
+    "side": "T",
+    "site": "A",
+    "utility": "smoke",
+    "target": "jungle",
+    "label": "Mirage A 坪丛林（Jungle）烟",
+    "throw_type": "jump_throw",
+    "verification_status": "verified",
+    "verified_at": "2026-07-21",
+    "notes": "已验证：在 A 坪木板附近按图站定，再按瞄点图将准星置于脚手架参照物处跳投。",
+    "images": [
+      {
+        "role": "position",
+        "step": 1,
+        "caption": "① 站位：站在 A 坪木板与墙体附近的投掷起点。",
+        "path": "mirage/ramp_palace_fast/jungle_smoke_position.png"
+      },
+      {
+        "role": "aim",
+        "step": 2,
+        "caption": "② 瞄点：按图中脚手架的纵向木条和天空交界处对准后跳投，目标封锁 Jungle。",
+        "path": "mirage/ramp_palace_fast/jungle_smoke_aim.png"
+      }
+    ]
+  },
+  {
+    "lineup_id": "mirage_ramp_stairs_smoke_v1",
+    "strategy_id": "mirage_t_a_ramp_palace_fast_triple_smoke_v1",
+    "map": "mirage",
+    "side": "T",
+    "site": "A",
+    "utility": "smoke",
+    "target": "stairs",
+    "label": "Mirage A 坪跳台（Stairs）烟",
+    "throw_type": "jump_throw",
+    "verification_status": "verified",
+    "verified_at": "2026-07-21",
+    "notes": "已验证：在 A 坪木板位置按图站定，再按瞄点图对准墙体、脚手架和天空的交界处跳投。",
+    "images": [
+      {
+        "role": "position",
+        "step": 1,
+        "caption": "① 站位：站在 A 坪木板处，贴近图中墙体与木板交界。",
+        "path": "mirage/ramp_palace_fast/stairs_smoke_position.png"
+      },
+      {
+        "role": "aim",
+        "step": 2,
+        "caption": "② 瞄点：按图中脚手架、墙体和天空的参照物对准后跳投，目标封锁跳台（Stairs）。",
+        "path": "mirage/ramp_palace_fast/stairs_smoke_aim.png"
+      }
+    ]
+  }
+]

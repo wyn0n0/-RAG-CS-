@@ -1,0 +1,10 @@
+.env
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+
+model_cache/
+data/chroma/
+
+*Zone.Identifier
